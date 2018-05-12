@@ -1,0 +1,8 @@
+
+Dilmurod;MA;777;visa
+Shahzod;MB;444;master_card
+Dilmurod;MA;1568;visa
+DIlmurod;MA;158;visa
+DIlmurod;MA;16666;visa
+DIlmurod;MA;16666;visa
+DIlmurod;MA;16666;visa
